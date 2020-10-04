@@ -1,0 +1,13 @@
+C:\Users\owner\source\repos\Loop_practice\Loop_practice\bin\Debug\netcoreapp3.1\Loop_practice.exe
+C:\Users\owner\source\repos\Loop_practice\Loop_practice\bin\Debug\netcoreapp3.1\Loop_practice.deps.json
+C:\Users\owner\source\repos\Loop_practice\Loop_practice\bin\Debug\netcoreapp3.1\Loop_practice.runtimeconfig.json
+C:\Users\owner\source\repos\Loop_practice\Loop_practice\bin\Debug\netcoreapp3.1\Loop_practice.runtimeconfig.dev.json
+C:\Users\owner\source\repos\Loop_practice\Loop_practice\bin\Debug\netcoreapp3.1\Loop_practice.dll
+C:\Users\owner\source\repos\Loop_practice\Loop_practice\bin\Debug\netcoreapp3.1\Loop_practice.pdb
+C:\Users\owner\source\repos\Loop_practice\Loop_practice\obj\Debug\netcoreapp3.1\Loop_practice.csprojAssemblyReference.cache
+C:\Users\owner\source\repos\Loop_practice\Loop_practice\obj\Debug\netcoreapp3.1\Loop_practice.AssemblyInfoInputs.cache
+C:\Users\owner\source\repos\Loop_practice\Loop_practice\obj\Debug\netcoreapp3.1\Loop_practice.AssemblyInfo.cs
+C:\Users\owner\source\repos\Loop_practice\Loop_practice\obj\Debug\netcoreapp3.1\Loop_practice.csproj.CoreCompileInputs.cache
+C:\Users\owner\source\repos\Loop_practice\Loop_practice\obj\Debug\netcoreapp3.1\Loop_practice.dll
+C:\Users\owner\source\repos\Loop_practice\Loop_practice\obj\Debug\netcoreapp3.1\Loop_practice.pdb
+C:\Users\owner\source\repos\Loop_practice\Loop_practice\obj\Debug\netcoreapp3.1\Loop_practice.genruntimeconfig.cache
