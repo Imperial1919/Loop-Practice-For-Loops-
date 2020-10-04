@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Reflection.PortableExecutable;
 using System.Security.Cryptography.X509Certificates;
+using System.Threading;
 
 namespace Loop_practice
 {
@@ -65,7 +66,7 @@ namespace Loop_practice
                 }
             }
 
-
+            Console.WriteLine("-----------------------------------------------");
             List<string> alphabet = new List<string>()
             {
                "a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","z"
@@ -77,7 +78,7 @@ namespace Loop_practice
 
             
             }
-
+            Console.WriteLine("-----------------------------------------------");
             Console.WriteLine("Let's try some capitalization");
 
 
@@ -86,6 +87,30 @@ namespace Loop_practice
                 Console.WriteLine(capletter.ToUpper());
                 
             }
+            Console.WriteLine("-----------------------------------------------");
+            int age = 0;
+           for(age = 0;age <= 18; age++)
+            {
+                Console.WriteLine($"I am now " + age + " Years old.");
+            }
+            Console.WriteLine("-----------------------------------------------");
+
+            
+            int startyear = 1900;
+            for(startyear = 1900;startyear <= 2020; startyear++)
+            {
+                Console.WriteLine("One past year is: " + startyear);
+          
+                
+                if (startyear == 2020)
+                {
+                    Console.WriteLine("This is the current year now. ^^^");
+                }
+
+                
+            }
+
+            Console.ReadKey();
 
 
         }
